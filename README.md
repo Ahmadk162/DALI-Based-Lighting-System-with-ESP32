@@ -16,7 +16,7 @@ This project implements a DALI-2 lighting control system using an ESP32 and a DA
 - Scenario-based testing of addressability, group commands, and dimming
 
 ## 📸 Visuals
-![Board Setup](off off.jpg)
+![Board Setup](offoff.jpg)
 ![MATLAB App](images/matlab_app.jpg)
 
 
