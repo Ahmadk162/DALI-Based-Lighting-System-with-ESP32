@@ -17,6 +17,6 @@ This project implements a DALI-2 lighting control system using an ESP32 and a DA
 
 ## 📸 Visuals
 ![Board Setup](offoff.jpg)
-![MATLAB App](send.jpg)
+![MATLAB App](send.png)
 
 
