@@ -1,4 +1,3 @@
-# DALI-Based-Lighting-System-with-ESP32
 # DALI-Based Lighting System with ESP32
 
 ## 🔧 Project Overview
